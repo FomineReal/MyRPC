@@ -1,0 +1,12 @@
+18:14:22 =>[info] hello my log system
+18:14:22 =>[info] service_name:UserServiceRpc
+18:14:22 =>[info] method_name:Login_rpc
+18:14:22 =>[info] method_name:Register
+18:17:53 =>[info] hello my log system
+18:17:53 =>[info] service_name:UserServiceRpc
+18:17:53 =>[info] method_name:Login_rpc
+18:17:53 =>[info] method_name:Register
+18:19:20 =>[info] hello my log system
+18:19:20 =>[info] service_name:UserServiceRpc
+18:19:20 =>[info] method_name:Login_rpc
+18:19:20 =>[info] method_name:Register
